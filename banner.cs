@@ -3,7 +3,7 @@ using UnityEngine;
 using GoogleMobileAds.Api;
 using FindBannerScripts;
 
-public class banner : MonoBehaviour
+public class banner : MonoBehaviour //https://developers.google.com/admob/unity/banner?hl=ko
 {
     BannerView bannerView;
     
